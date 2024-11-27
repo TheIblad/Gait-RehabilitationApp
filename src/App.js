@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles.css';
 import PatientForm from './components/PatientForm';
 import ProgressChart from './components/ProgressChart';
 
